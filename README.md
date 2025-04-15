@@ -1,12 +1,8 @@
-- 👋 Hi, I’m @Deyalking it's nice coincidence that brings you here
-- 👀 I’m interested in Artificial Intelligence
-- 🌱 I’m currently learning Machine learing and dealing with data
-- 💞️ I’m looking to collaborate on Project that need AI to maximzie prodcutvity :)
-- 📫 How to reach me at gmail: omar74oweidi@gmail.com
-- 😄 Pronouns: He
-- ⚡ Fun fact: You can call me Dey or Omar!
-
-<!---
-Deyalking/Deyalking is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+Welcome to my GitHub profile! 🚀
+👋 Hey there! I’m @Deyalking — funny how life brings the right people to the right place.
+👀 I’m passionate about Artificial Intelligence in the medical field and a big fan of volleyball.
+🌱 Currently diving deeper into Deep Learning.
+💡 Always open to contribute—if you’re working on an AI-related project, I’d love to help!
+📫 You can reach me at: omar74oweidi@gmail.com
+😄 Pronouns: He/Him
+⚡ Fun fact: I’m also a creative writer, so I like to mix logic with imagination.
